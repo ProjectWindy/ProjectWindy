@@ -58,7 +58,7 @@
 <br>
 <!-- https://icons8.com -->
 <a href="#" target="_blank">
-  <img src="svg/DyPink-lang.svg" width="1200" alt="DyPink-official" />
+  <img src="svg/DyPink-lang.svg" width="1200" alt="DyPink-lang" />
 </a>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
