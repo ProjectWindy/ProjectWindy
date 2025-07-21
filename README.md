@@ -51,7 +51,7 @@
   <a href="#" title="DyPink">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectWindy&hide=c%2523,powershell,Mathematica,Ruby,Objective-C,Objective-C++,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="TaiLe1101">
+  <a href="#" title="DyPink">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ProjectWindy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
